@@ -1,0 +1,7 @@
+c:\users\czar\documents\visual studio 2017\Projects\numberGuesser1\bin\Debug\numberGuesser1.exe.config
+c:\users\czar\documents\visual studio 2017\Projects\numberGuesser1\bin\Debug\numberGuesser1.exe
+c:\users\czar\documents\visual studio 2017\Projects\numberGuesser1\bin\Debug\numberGuesser1.pdb
+c:\users\czar\documents\visual studio 2017\Projects\numberGuesser1\obj\Debug\numberGuesser1.csprojResolveAssemblyReference.cache
+c:\users\czar\documents\visual studio 2017\Projects\numberGuesser1\obj\Debug\numberGuesser1.exe
+c:\users\czar\documents\visual studio 2017\Projects\numberGuesser1\obj\Debug\numberGuesser1.pdb
+C:\Users\CzaR\documents\visual studio 2017\Projects\numberGuesser1\obj\Debug\numberGuesser1.csproj.CoreCompileInputs.cache
